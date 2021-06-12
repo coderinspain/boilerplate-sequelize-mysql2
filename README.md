@@ -1,0 +1,1 @@
+# boilerplate-sequelize-mysql2
